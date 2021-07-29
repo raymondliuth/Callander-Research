@@ -1,0 +1,11 @@
+This folder contains unaltered data scraped by the platform import.io from the website PornHub.com (www.pornhub.com). 
+
+The extractor used to generate these files was created in November 2020 by Denton Callander (d.callander@unsw.edu.au). It scrapes data from the first 23 pages of 'featured' content from each of the 'gay' and 'general' (i.e., straight) sections of the website. For the study's duration (1 December 2020 onwward), the extractor only captured featured content from the 'gay' section of the PornHub (stored in the folder PH_gay) and from 25 July 2021 onward additionally captured straight content (stored in the folder PH_general). 
+
+'Featured' videos are the first thing a user sees when accessing PornHub and, therefore, represent significant and impactful content. While the exact processes by which content is featured is not entirely clear, it is believed that these typically comprise videos that: (a) received a large number of views, (b) were highly rated by users, (c) were produced by popular/high-ranking users, and/or (d) were 'boosted' by their creators through paying a fee to PornHub. 
+
+From 1 December 2020 to 1 February, the extractor ran on a monthly schedule (i.e., the first of each calendar month). From 7 March 2021, the extractor has run on a weekly schedule (i.e., at 11PM every Saturday), producing 4-5 extracts per month. 
+
+On 8 December 2020, PornHub made major changes to its terms of use and its policies around content uploading, which resulted in millions of videos being removed from the platform. For more information, see articles in the sub-folder 'References and citations'. 
+
+
